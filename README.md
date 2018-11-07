@@ -4,7 +4,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/Chimeejs/chimee-kernel-flv.js/master.svg?style=flat-square)](https://coveralls.io/github/Chimeejs/chimee-kernel-flv.js?branch=master)
 [![npm](https://img.shields.io/npm/v/chimee-kernel-flv.js.svg?colorB=brightgreen&style=flat-square)](https://www.npmjs.com/package/chimee-kernel-flv.js)
 [![dependency Status](https://david-dm.org/Chimeejs/chimee-kernel-flv.js.svg)](https://david-dm.org/Chimeejs/chimee-kernel-flv.js)
-[![devDependency Status](https://david-dm.org/Chimeejs/chimee-kernel-flv.js/dev-status.svg)](https://david-dm.org/Chimeejs/chimee-kernel-flv.js?type=dev)
+[![devDependency Status](https://david-dm.org/Chimeejs/chimee-kernel-flv.js/dev-status.svg)](https://david-dm.org/Chimeejs/chimee-kernel-flv.js?type=dev) [![Greenkeeper badge](https://badges.greenkeeper.io/Chimeejs/chimee-kernel-flv.js.svg)](https://greenkeeper.io/)
 
 chimee-kernel-flv.js is the decoder for [chimee](https://github.com/Chimeejs/chimee). It can decode m3u8 on browser.
 
